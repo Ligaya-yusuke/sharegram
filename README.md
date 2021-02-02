@@ -4,22 +4,70 @@ Sharegram
 
 ## 概要
 
-スクールで学習した内容を復讐しながら、
-　新たな機能を少し追加
+スクールで学習した内容を復習しながら、
+新たな機能を少し追加
 
-デプロイ先：現在 heroku にデプロイ中(Ruby2.6.6 に更新する等解消中)
+## デプロイ
 
-ログイン
+https://nameless-escarpment-49685.herokuapp.com/
+
+<br>ログイン
+|メールアドレス| 1@1 |
+|パスワード | sample |
+
+<br>メールアドレス: 1@1 パスワード:sample
 
 ##Demo
 https://gyazo.com/9db84d502f2fab99e28e61f10b03a633
 
-ER 図
+### ER 図
 
-今後実装予定
-Heroku でデプロイ
-簡単ログイン機能
-Circle CI
-AWS(EC2、S3)
-Capistrano
-Docker
+https://gyazo.com/37cb86f4f56c3a65c58f29799bb65aa8
+
+## 技術
+
+### バージョン
+
+- Ruby 2.6.6
+- Rails 6.0.3.4
+
+### フロントエンド
+
+- HTML
+- SCSS
+- Bootstrap
+- JavaScript
+
+### バックエンド
+
+- Rails
+- Sqlite3 (開発)
+- PostgerSQL (本番)
+
+### インフラ
+
+- Heroku
+- Github
+
+## その他
+
+- Rubocop
+- レスポンシブ
+
+## 機能一覧
+
+| 機能名 | 説明 |
+|ユーザー機能 |新規登録、ユーザー編集、ログイン、 |
+| |ログアウト |
+|写真投稿 |投稿、編集、詳細表示、削除 |
+|コメント機能 |投稿、削除 |
+|投稿いいね機能 |投稿をいいね、いいねを取り消し |
+
+### 今後実装予定
+
+<br>簡単ログイン機能
+<br>テストコード実装(Rspec)  
+<br>Circle CI
+<br>AWS(EC2、S3)  
+<br>Capistrano
+<br>vue.js
