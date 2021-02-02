@@ -1,0 +1,50 @@
+.navbar {
+  background-color: #fff;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.0975);
+  height: 77px;
+  &__brand {
+    // height: 35px;
+    width: 176px;
+    background-size: 114px;
+  }
+  &__mainLogo {
+    text-decoration: none;
+    font-family: "Vidaloka", serif;
+    font-weight: normal;
+    color: #444;
+    // background-repeat: no-repeat;
+    // background-image: url("~logo.png");
+    font-size: 50px;
+  }
+  &-nav {
+    & > li {
+      margin-left: 20px;
+      &:first-child {
+        margin-left: 0;
+      }
+      .commonNavIcon {
+        height: 24px;
+        width: 24px;
+        background-size: 22px !important;
+        background-repeat: no-repeat;
+      }
+      .profile-icon {
+        background-image: url("~parts3.png");
+      }
+    }
+  }
+}
+
+// h2 {
+//   font-family: "Paytone One";
+//   color: #202020;
+//   // text-transform: uppercase;
+//   letter-spacing: -2px;
+//   text-align: left;
+// }
+.navbar-mainLogo {
+  font-size: 60px;
+  line-height: 60px;
+  letter-spacing: -2px;
+  text-shadow: 3px 3px 6px #888;
+}

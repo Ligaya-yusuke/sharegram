@@ -1,0 +1,4 @@
+$('#comment-post-<%= @post.id.to_s %>').
+  html('<%= j render "posts/comment_list", { post: @post } %>');
+<%# valはHTMLタグ内に記述されているvalue属性を取得または変更できる %>
+$('#comment-form-post-<%= @post.id.to_s %> #comment_comment').val("");
