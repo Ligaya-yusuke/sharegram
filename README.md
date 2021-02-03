@@ -18,12 +18,12 @@ https://nameless-escarpment-49685.herokuapp.com/
 
 <br>メールアドレス: 1@1 パスワード:sample
 
+
 ## Demo
-https://gyazo.com/9db84d502f2fab99e28e61f10b03a633
+![image](https://user-images.githubusercontent.com/62747864/106704982-5c6c5900-6630-11eb-8ed3-4edba9601ced.png)
 
 ### ER 図
-
-https://gyazo.com/37cb86f4f56c3a65c58f29799bb65aa8
+![image](https://user-images.githubusercontent.com/62747864/106704754-fc75b280-662f-11eb-8523-027e0280e650.png)
 
 ## 技術
 
