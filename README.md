@@ -71,5 +71,5 @@ https://nameless-escarpment-49685.herokuapp.com/
 <br>テストコード実装(Rspec)  
 <br>Circle CI
 <br>AWS(EC2、S3)  
-<br>Capistrano
-<br>vue.js
+<br>vue.js追加
+<br>Docker
