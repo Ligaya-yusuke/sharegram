@@ -1,14 +1,6 @@
 ## アプリ名
 
-Sharegram
-
-## 概要
-
-スクールで学習した内容を復習しながら、
-新たな機能を少し追加
-
-## デプロイ
-
+Sharegram  
 https://nameless-escarpment-49685.herokuapp.com/
 
 <br>ログイン
@@ -16,7 +8,11 @@ https://nameless-escarpment-49685.herokuapp.com/
 |:--|--:|
 |パスワード | sample |
 
-<br>メールアドレス: 1@1 パスワード:sample
+
+## 概要
+
+スクールで学習した内容を復習しながら、
+新たな機能を少し追加
 
 
 ## Demo
