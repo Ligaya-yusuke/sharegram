@@ -68,8 +68,8 @@ https://nameless-escarpment-49685.herokuapp.com/
 ### 今後実装予定
 
 <br>簡単ログイン機能
-<br>テストコード実装(Rspec)  
+<br>テストコード実装(Rspec)
 <br>Circle CI
-<br>AWS(EC2、S3)  
+<br>AWS(EC2、S3)
 <br>vue.js追加
 <br>Docker
