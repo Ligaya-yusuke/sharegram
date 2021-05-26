@@ -18,7 +18,7 @@ https://nameless-escarpment-49685.herokuapp.com/
 |投稿いいね機能 |投稿をいいね、いいねを取り消し |
 
 ## 制作背景
-学習したコードで世の中にあるInstagramをまねしながらアウトプットしています。
+学習したコードをアウトプットするために、Instagram風のアプリを模倣しています。
 
 ## Demo
 ![image](https://user-images.githubusercontent.com/62747864/106704982-5c6c5900-6630-11eb-8ed3-4edba9601ced.png)
